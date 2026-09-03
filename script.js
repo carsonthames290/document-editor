@@ -10,7 +10,7 @@ const SECRET_CODE = "Mathsucks";
    Example:
 
    const DESTINATION_URL =
-       "https://sites.google.com/view/docsmath/";
+       "https://sites.google.com/view/docsmath/home?authuser=0";
 */
 
 const DESTINATION_URL = "https://sites.google.com/view/docsmath/";
